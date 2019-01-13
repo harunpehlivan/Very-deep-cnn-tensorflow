@@ -37,7 +37,7 @@ If you want to train a model with your preference parameters, like depth and lea
 If you want to train a model with your own dataset, you need to specify the paths to input (train and test files) and output folder:
 - **python train.py --train_set path/to/training/file --test_set path/to/test/file --saved_path path/to/output/folder**
 
-You could find all trained models I have trained in [link](https://drive.google.com/open?id=1gx1qvgu8rZRtEgkCMA9KqJZtFwjr8fc-)
+You could find all trained models I have trained in [link](https://drive.google.com/open?id=1DF9WXR5Et0aV3p725vEyxTTNUAqSdn0p)
 
 ## Experiments:
 
